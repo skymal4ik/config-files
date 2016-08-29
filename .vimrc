@@ -9,3 +9,12 @@ set shiftwidth=4
 
 " Turn syntax highlight on
 syntax on
+
+" Automatically close brackets
+ino " ""<left>
+ino ' ''<left>
+ino ( ()<left>
+ino [ []<left>
+ino { {}<left>
+ino < <><left>
+ino {<CR> {<CR?>}<ESC>O
