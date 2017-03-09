@@ -7,6 +7,9 @@ set noexpandtab
 " Indent corresponds to a single tab
 set shiftwidth=4
 
+"Turn on line numbers
+set number
+
 " Turn syntax highlight on
 syntax on
 
