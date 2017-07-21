@@ -7,7 +7,7 @@ apt-get install vim tmux;
 apt-get install ca-certificates;
 
 wget --quiet https://raw.githubusercontent.com/skymal4ik/config-files/master/.nanorc -O ~/.nanorc
-wget --quiet https://raw.githubusercontent.com/skymal4ik/config-files/master/.tmux.conf -O ~/.tmux.conf
 wget --quiet https://raw.githubusercontent.com/skymal4ik/config-files/master/.vimrc -O ~/.vimrc
+wget --quiet https://raw.githubusercontent.com/skymal4ik/config-files/master/.tmux.conf -O ~/.tmux.conf
 
 # End
