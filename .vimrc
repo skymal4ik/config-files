@@ -13,6 +13,9 @@ set number
 " Turn syntax highlight on
 syntax on
 
+" By default set search to ignore case
+set ignorecase
+
 " Automatically close brackets
 ino " ""<left>
 ino ' ''<left>
