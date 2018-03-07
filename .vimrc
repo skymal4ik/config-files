@@ -13,6 +13,9 @@ set number
 " Turn syntax highlight on
 syntax on
 
+" Set 256 colors
+set t_Co=256
+
 " By default set search to ignore case
 set ignorecase
 
