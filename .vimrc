@@ -1,6 +1,9 @@
 " Turn on line numbers
 set number
 
+" Enable mouse in normal mode only
+set mouse="n"
+
 " Turn syntax highlight on
 syntax on
 
