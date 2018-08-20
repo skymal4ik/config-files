@@ -1,8 +1,8 @@
 " Turn on line numbers
 set number
 
-" Enable mouse in normal mode only
-set mouse="n"
+" Disable mouse
+set mouse=""
 
 " Turn syntax highlight on
 syntax on
